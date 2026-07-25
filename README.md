@@ -1,16 +1,16 @@
 # ☕ Java Learning
 
-A repository documenting my Java learning journey through hands-on coding exercises and mini projects.
+A collection of Java exercises, practice programs, and mini projects as I learn and improve my Java skills.
 
-The goal of this repository is to build a strong foundation in Java by implementing core programming concepts and gradually progressing to object-oriented programming, data structures, file handling, multithreading, and more.
+This repository helps me track my progress while learning Java, from the basics to more advanced topics like object-oriented programming, file handling, collections, and multithreading.
 
 ## 📂 Repository Structure
 
 ```
 src/
 ├── lesson01_variables/
-├── lesson02_user_input/
-├── lesson03_mad_libs/
+├── lesson02_userinput/
+├── lesson03_madlibs/
 ```
 
 ## ✅ Topics Completed
