@@ -17,13 +17,18 @@ src/
 
 - Variables
 - User Input
-- Mad Libs Project
+- Arithmetic
+- If Statements
+- Random Numbers
+
+## 🛠️ Mini Projects
+
+- Mad Libs
+- Shopping Cart
+- Movie Ticket Checker
 
 ## 🚀 Upcoming Topics
 
-- Arithmetic
-- Shopping Cart Program
-- If Statements
 - Random Numbers
 - Math Class
 - Printf
