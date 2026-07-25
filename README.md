@@ -29,7 +29,6 @@ src/
 
 ## 🚀 Upcoming Topics
 
-- Random Numbers
 - Math Class
 - Printf
 - Compound Interest Calculator
