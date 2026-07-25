@@ -26,6 +26,7 @@ src/
 - Mad Libs
 - Shopping Cart
 - Movie Ticket Checker
+- Heads or Tails Game & Dice Rolling Game
 
 ## 🚀 Upcoming Topics
 
