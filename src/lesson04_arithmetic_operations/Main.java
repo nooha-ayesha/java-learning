@@ -1,4 +1,4 @@
-package lesson04_arithmaticoperations;
+package lesson04_arithmetic_operations;
 
 //import java.util.Scanner;
 
@@ -61,8 +61,11 @@ public class Main{
 
         //ORDER OF OPERATIONS [P-E-M-D-A-S]
 
+        /*
         double result = 5 + 4 * 6 * (2/2) / 2;
         System.out.println(result);
+         */
+
         //scanner.close();
     }
 }
