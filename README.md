@@ -22,6 +22,7 @@ src/
 - Random Numbers
 - Math Class
 - Printf
+- Nested If Statements
 
 ## 🛠️ Mini Projects
 
@@ -30,6 +31,7 @@ src/
 - Movie Ticket Checker
 - Heads or Tails Game & Dice Rolling Game
 - Compound Interest Calculator
+- Log In Checker
 
 ## 🚀 Upcoming Topics
 
