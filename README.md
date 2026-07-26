@@ -20,6 +20,8 @@ src/
 - Arithmetic
 - If Statements
 - Random Numbers
+- Math Class
+- Printf
 
 ## 🛠️ Mini Projects
 
@@ -27,20 +29,69 @@ src/
 - Shopping Cart
 - Movie Ticket Checker
 - Heads or Tails Game & Dice Rolling Game
+- Compound Interest Calculator
 
 ## 🚀 Upcoming Topics
 
-- Math Class
-- Printf
-- Compound Interest Calculator
 - String Methods
-- Arrays
+- Substrings
+- Weight Converter
+- Ternary Operator
+- Temperature Converter
+- Enhanced Switches
+- Calculator Program
+- Logical Operators
+- While Loops
+- Number Guessing Game
+- For Loops
+- Break & Continue
+- Nested Loops
 - Methods
-- Object-Oriented Programming
+- Overloaded Methods
+- Variable Scope
+- Banking Program
+- Dice Roller Program
+- Arrays
+- Enter User Input into an Array
+- Search an Array
+- Varargs
+- 2D Arrays
+- Quiz Game
+- Rock Paper Scissors
+- Slot Machine
+- Object-Oriented Programming (OOP)
+- Constructors
+- Overloaded Constructors
+- Array of Objects
+- Static
+- Inheritance
+- Super
+- Method Overriding
+- `toString()` Method
+- Abstraction
+- Interfaces
+- Polymorphism
+- Runtime Polymorphism
+- Getters and Setters
+- Aggregation
+- Composition
+- Wrapper Classes
+- ArrayLists
 - Exception Handling
-- File Handling
+- Writing Files
+- Reading Files
+- Music Player
+- Hangman Game
+- Dates & Times
+- Anonymous Classes
+- TimerTask
+- Countdown Timer
+- Generics
+- HashMaps
+- Enums
+- Threading
 - Multithreading
-- ...and many more.
+- Alarm Clock
 
 ## 🎯 Goals
 
