@@ -24,6 +24,7 @@ src/
 - Printf
 - Nested If Statements
 - String Methods
+- Substrings
 
 ## 🛠️ Mini Projects
 
@@ -36,7 +37,6 @@ src/
 
 ## 🚀 Upcoming Topics
 
-- Substrings
 - Weight Converter
 - Ternary Operator
 - Temperature Converter
