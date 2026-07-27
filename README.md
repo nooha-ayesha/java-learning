@@ -23,6 +23,7 @@ src/
 - Math Class
 - Printf
 - Nested If Statements
+- String Methods
 
 ## 🛠️ Mini Projects
 
@@ -35,7 +36,6 @@ src/
 
 ## 🚀 Upcoming Topics
 
-- String Methods
 - Substrings
 - Weight Converter
 - Ternary Operator
