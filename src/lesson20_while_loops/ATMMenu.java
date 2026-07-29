@@ -7,14 +7,14 @@ public class ATMMenu{
 
         //ATM menu
 
-        //WHILE
-
         Scanner scanner = new Scanner(System.in);
 
         double balance = 8000;
         double deposit = 0;
         int choice;
         int choiceExit = 3;
+
+        //WHILE
 
         /*
         System.out.println("ATM MENU");
