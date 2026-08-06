@@ -25,6 +25,13 @@ src/
 - Nested If Statements
 - String Methods
 - Substrings
+- Ternary Operator
+- Enhanced Switches
+- Calculator Program
+- Logical Operators
+- While Loops
+- For Loops
+- Break & Continue
 
 ## 🛠️ Mini Projects
 
@@ -34,19 +41,12 @@ src/
 - Heads or Tails Game & Dice Rolling Game
 - Compound Interest Calculator
 - Log In Checker
+- Weight Converter
+- Temperature Converter
+- Number Guessing Game
 
 ## 🚀 Upcoming Topics
 
-- Weight Converter
-- Ternary Operator
-- Temperature Converter
-- Enhanced Switches
-- Calculator Program
-- Logical Operators
-- While Loops
-- Number Guessing Game
-- For Loops
-- Break & Continue
 - Nested Loops
 - Methods
 - Overloaded Methods
